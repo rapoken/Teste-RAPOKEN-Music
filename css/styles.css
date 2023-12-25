@@ -197,11 +197,13 @@ p {
         width: 100%;
         height: 100%;
     }
+}
 
-      .price-text {
+@media (max-width:500px) {
+    .price-text {
         font-size: 12px;
         line-height: 1;
-      }
+    }
 }
 
 .preco {
