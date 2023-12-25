@@ -199,13 +199,6 @@ p {
     }
 }
 
-@media (max-width:500px) {
-    .price-text {
-        font-size: 12px;
-        line-height: 1;
-    }
-}
-
 .preco {
     color: #f83854;
     font-size: large;
